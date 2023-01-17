@@ -8,7 +8,7 @@ Please ensure that you have updated your gas prices as follows:
 
 Once updated, kindly create a PR to the following files, by changing `not-updated` against your name to `updated`.
 
-Validators: [Create PR here](gas_prices_tracker/validators.json)
+Validators: [Create PR here](validators.json)
 
 
 ### How to update gas prices
