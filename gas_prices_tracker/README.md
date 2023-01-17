@@ -11,6 +11,7 @@ Once updated, kindly create a PR to the following files, by changing `not-update
 - Validators: [Create PR here](validators.json)
 - CEXes: [Create PR here](cexes.json)
 - Native Wallets: [Create PR here](wallets_native.json)
+- Dapps: [Create PR here](dapps.json)
 
 
 ### How to update gas prices
